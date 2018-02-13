@@ -5,6 +5,7 @@ Par Julien Cartier.
 J'ai assisté au cours
 
 Cette application a pour but de localiser l'utilisateur et d'afficher dans son rayon différents magasins (supermarché etc...).
+Un beug est présent et empêche le chargement de la google map, il faut accéder à la vue Mes magasins puis revenir sur Accueil pour que l'application se charge correctement.
 L'utilisateur pourra alors choisir un magasin autour de lui et voir les bons plan proposé par la communauté puis à son tour y mettre ses bons plans.
 Utilisation de l'API Google places, de la géolocalisation et de firebase pour la bdd partagée ainsi que pour les analytics(suite à un problème de build j'ai du supprimer le plugin qui m'empechait de build. Erreur : Failed to apply plugin [class 'com.google.gms.googleservices.GoogleServicesPlugin']
 For input string: "+").
